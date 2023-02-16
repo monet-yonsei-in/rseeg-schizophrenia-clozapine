@@ -17,6 +17,11 @@ First, move to rseeg-schizophrenia-clozapine folder and run setup in the MATLAB 
 You will get a message the setup ran successfully.
 
 ## Example 1
+All parameter scale perturbation from baseline to follow-up DCM posterior parameters.
 
+```
+>> DCM_perturbation_example1
+```
+This code was written in MATLAB Livescript.
 
 ## Example 2
